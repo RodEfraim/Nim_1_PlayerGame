@@ -12,20 +12,19 @@ Install the latest version of java.
 Compile the java program
 
 ```
-javac Nim.java
+javac autoNim.java
 ```
 
 Run java program.
 
 ```
-java Nim
+java autoNim
 ```
 
 ### Example Run
 
 Example run of the game.
 
-<img width="530" alt="screen shot 2019-01-12 at 3 05 34 pm" src="https://user-images.githubusercontent.com/32502126/51079418-a36b0880-167b-11e9-8298-03dbe141e3d9.png">
 
 ## Authors
 
